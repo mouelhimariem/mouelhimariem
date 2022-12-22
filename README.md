@@ -1,36 +1,43 @@
 
 
-<h1 align="center">Hey there ! I'm Mariem <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+<h1 align="center">
+    Hi ! I'm Mariem Mouelhi
+</h1>
 
-
-
-About Me :
-
-I am a Full Stack Developer from Tunisia.
-
-* I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-* Exploring Technical Content Writing.
-* In my free time I solve problems and read tech articles.
-* How to reach me: [Mariem Mouelhi](https://www.linkedin.com/in/mouelhi-mariem/)
-
----
-
-Languages and Tools :
-
-<p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+<p align='center' style='margin: 16px 4px 8px;'>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&multiline=true&width=710&height=70&lines=Welcome+to+my+GitHub+Profile;I+am+a+passionate+full-stack+software+engineer+from+India" alt="Welcome to my GitHub Profile. I am a passionate full-stack software developer from Tunisia." />
 </p>
 
----
 
 
+<h3 align="center">
+    I am a Junior Fullstack developer <br />
+    I am a Master degree student in computer Science at the national school of engineering <br />
+    I like solving competitive coding problems and exploring new technologies.
+</h3>
 
+
+<p align='center' style='font-size: 16px;'>
+    My proverb : <strong> It is never too late to learn something .</strong>
+</p>
+
+<h3 align="center" style='margin: 32px 4px 8px; font-size: 24px;'>
+    Connect with me:
+</h3>
+<p align="center" style='margin: 16px 4px 8px;'>
+   
+  
+  <a href="https://linkedin.com/in/utkarshpathrabe" target="blank" rel="noreferrer">
+        <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="https://www.linkedin.com/in/mouelhi-mariem/" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    </a>  </p>
+    
+
+<h3 align="center" style='margin: 32px 4px 8px; font-size: 24px;'>
+    Languages and Tools: 
+   Angular 
+  - Laravel 
+  - Mysql
+  - Node JS 
+  - JEE
+  
+</h3>
