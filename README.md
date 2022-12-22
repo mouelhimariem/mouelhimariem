@@ -11,9 +11,7 @@
 
 
 <h3 align="center">
-    I am a Junior Fullstack developer <br />
-    I am a Master degree student in computer Science at the national school of engineering <br />
-    I like solving competitive coding problems and exploring new technologies.
+    I am a Junior Fullstack developer <br /> I like solving competitive coding problems and exploring new technologies.
 </h3>
 
 
